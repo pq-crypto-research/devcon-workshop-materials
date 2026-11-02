@@ -34,7 +34,7 @@ Coding theory is about protecting and checking information, not writing computer
 
 **Evaluation domain ($`L`$).** A set of $`n`$ distinct field elements $`L=\{x_1,\ldots,x_n\}\subseteq\mathbb F`$ at which polynomials are evaluated.
 
-**Reed–Solomon code ($`C=\operatorname{RS}[\mathbb F,L,k]`$).** The set of vectors obtained by evaluating every polynomial of degree less than $`k`$ at the points of $`L`$:
+**Reed–Solomon code ($`C=\mathrm{RS}[\mathbb F,L,k]`$).** The set of vectors obtained by evaluating every polynomial of degree less than $`k`$ at the points of $`L`$:
 
 ```math
 C=\{(f(x_1),\ldots,f(x_n)): f\in\mathbb F[X],\ \deg f\lt k\}.
@@ -64,7 +64,7 @@ d_H(u,v)=|\{i:u_i\ne v_i\}|.
 
 **Hamming ball.** The set of all words within a given distance of a center word. A relative-radius-$`\delta`$ ball around $`u`$ contains all $`v`$ with $`\Delta(u,v)\le\delta`$.
 
-**Agreement set.** The positions where two words agree: $`\operatorname{Agr}(u,v)=\{i:u_i=v_i\}`$. Its agreement fraction is $`|\operatorname{Agr}(u,v)|/n=1-\Delta(u,v)`$.
+**Agreement set.** The positions where two words agree: $`\mathrm{Agr}(u,v)=\{i:u_i=v_i\}`$. Its agreement fraction is $`|\mathrm{Agr}(u,v)|/n=1-\Delta(u,v)`$.
 
 **$`S`$ and restriction.** $`S`$ is a subset of coordinate positions (equivalently, a subset of $`L`$ when positions are identified with evaluation points). $`u|_S`$ means the entries of $`u`$ on $`S`$.
 
