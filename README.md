@@ -4,13 +4,13 @@ This is a quick reference document for the workshop! We will cover everything, t
 
 This workshop covers all the foundations required to understand the $1 million Ethereum Proximity Prize. 
 
-This workshop assumes you have basic understanding of high schol algebra.
+This workshop assumes you have a basic understanding of high school algebra.
 
 ____
 
 Wtf is coding theory? 
 
-Coding theory is about protecting and checking information, not writing computer programs, using "code".
+Coding theory is about protecting and checking information, not writing computer programs, using "code", just want to clear that up.
 
 # Definitions:
 
