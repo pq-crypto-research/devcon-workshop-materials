@@ -109,3 +109,25 @@ d_H(u,v)=|\{i:u_i\ne v_i\}|.
 ---
 
 **Notation reminder:** $`n=|L|`$, $`k`$ is the number of message coefficients, $`\rho=k/n`$, and $`\delta`$ denotes a relative distance or proximity threshold. Distinguish the variable $`\delta`$ from a code's fixed minimum relative distance $`\delta_{\min}`$.
+
+
+_____
+
+## Continue Learning:
+
+If you made it to the bottom of this page, pat yourself on the back! If you want to learn more about RS codes, MCA, and the Ethereum proximity prize, here are some essential links:
+
+1. Open Problems in List Decoding and Correlated Agreement: https://eprint.iacr.org/2026/680 
+
+2. Reed–Solomon Codes Beyond Johnson:
+Efficient Decoding and Smaller Cryptographic Proofs: https://eprint.iacr.org/2026/2056.pdf
+
+3. Better Codes: https://better.codes
+
+___
+
+Great videos on RS codes are any video made by Mary Wootters: https://youtu.be/kRIoQv30AbY?si=l7mctTuM7QBudf1B
+
+____
+
+Our website for building intuition of RS codes and MCA: https://proximity-gaps.vercel.app/
